@@ -152,7 +152,7 @@ footer{text-align:center;margin-top:28px;font-family:"Patrick Hand","Fredoka",cu
   </div>
 </section>
 
-<footer>Pequeños pasos, grandes logros ♡ ¡Éxitos en tu ingreso!</footer>
+<footer> ♡ </footer>
 </div>
 <script>
 (function(){
